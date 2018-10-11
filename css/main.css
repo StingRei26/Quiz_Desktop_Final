@@ -1,0 +1,648 @@
+/* --------------------------------------------- */
+/* -----> FONT IMPORTS PER REFERENCE FILE <----- */
+/* --------------------------------------------- */
+@import url(https://fast.fonts.net/t/1.css?apiType=ad&projectid=21dfec3a-67e2-4918-9142-bfaf8a92f03f);
+  @font-face{font-family:"Proxima N W01 Reg";
+  src:url(https://apiadn.fonts.com/v2/fonts/subset?x=aEQPPHegxpcMofj1Jp1tYXKqiOi9p687nKTqLsOq73tJQoR0ctMtTzsiZt8wVkyywZljis6XqhTOA87xBh2gII4u354RCpSLWvyOsTpDWSwYqZebhMSWmmB1fRC4gv4mw%2bgNckgkXbWXsUdbthhC8DaHdyfU7SRnJWmmYlaPg8E%3d);
+  src:url(https://apiadn.fonts.com/v2/fonts/subset?x=aEQPPHegxpcMofj1Jp1tYXKqiOi9p687nKTqLsOq73tJQoR0ctMtTzsiZt8wVkyywZljis6XqhTOA87xBh2gII4u354RCpSLWvyOsTpDWSwYqZebhMSWmmB1fRC4gv4mw%2bgNckgkXbWXsUdbthhC8DaHdyfU7SRnJWmmYlaPg8E%3d#iefix) format("eot"),url(https://apiadn.fonts.com/v2/fonts/subset?x=bnlTGL%2flyERMvMB5KGT1XBXveOQr4%2f%2bsI8BXrDMbjKe%2fF%2fL%2bj0ydN4duUIuaJlKXIIeTW0CRI%2fxdcolu2oF2vGuxRdnwi3evMn0sJDUojwrNdOaEOnIGgnsirqykyQ5WF7nSFsayiEBjIUQedsS%2ftSfTxGgByozSb5GNszYPHG8%3d) format("woff2"),url(https://apiadn.fonts.com/v2/fonts/subset?x=7lOozVx17sBSzsSHZRAsBC1QzJejLKkoqlkZJJA7s5wDJrO6eUaNgLBUCc3UDRmiWlHxWEy%2bHKcjWobUn06eTgU7LoeE7jT8pPX35hzyd2hUVGY3c%2fV7UCJBagiDRKvps9xb6oxPVgoBNrCrFuuDCGuYWsPDI0cUA7DsHslAy6o%3d) format("woff"),url(https://apiadn.fonts.com/v2/fonts/subset?x=YdU1Gas3Kn1GLOFex%2fIYiPq%2fAYSzutipKMkVmBE2Aiv46sUG8HgSPatrkyifHCf7eJaVv1qkqX6BQCC8Sq3HcRN2tMuoqzgXV%2bBJ4wTSScRK9XVKhCeDCO2TGwwWiHBWJmJxF7X0timAIhkGq8v%2bDQvO02r3FUEnxmQpNDF0w%2fQ%3d) format("truetype")}
+  @font-face{font-family:"Proxima N W02 Bold";
+  src:url(https://apiadn.fonts.com/v2/fonts/subset?x=3m9sZXQqzMRmVlycd6e8QzKwa6vl4y002J4aBR1aKDSyu2Ocz0RsIiawLUEx5xq56KII8cd2WTai5kabaKAkw7oG4uv9a6fJ1gv533XGp3H9kzQik0Je2ND%2fvD%2bZVkl6kETg4NsfrV4NHWrsLDP5hiiYHLMFm2k3GpQboFeQcmU%3d);
+  src:url(https://apiadn.fonts.com/v2/fonts/subset?x=3m9sZXQqzMRmVlycd6e8QzKwa6vl4y002J4aBR1aKDSyu2Ocz0RsIiawLUEx5xq56KII8cd2WTai5kabaKAkw7oG4uv9a6fJ1gv533XGp3H9kzQik0Je2ND%2fvD%2bZVkl6kETg4NsfrV4NHWrsLDP5hiiYHLMFm2k3GpQboFeQcmU%3d#iefix) format("eot"),url(https://apiadn.fonts.com/v2/fonts/subset?x=1jA8a6kaT0NuM7%2bf3PrZlFxldvUathMnC%2f592lbImbxX%2bOOLy907FNTWTVYORp7aeZJX%2btakG%2f%2fq0iQx0DcUwTKZzUUBh4qngYv0%2fYfQFtZIqulpn%2bAo3nzeRj06oxR0Q%2fkhqK4Bf9x9V2Op18nDmDRhuvxT3Q1IZdk1FjfIpQk%3d) format("woff2"),url(https://apiadn.fonts.com/v2/fonts/subset?x=nzdUhcdHlj0pVBSBB89zTJ0%2fCPooMF5f5g8qZykOr91eS1u37i6ARGaTPm%2fj5Cq1AH6duCKKlhibgGZWaf3NzJ6jHFPFziUNo4fjXJqpJpRncwALwwvDbYPsJPEE9QGFigqBAmcOr8ev2E6jZZw7sIhuxg6xhyrf16kPX0b4jVY%3d) format("woff"),url(https://apiadn.fonts.com/v2/fonts/subset?x=KPD8T4ogq%2bRh4h2g11CLb%2b3Y%2fhJq8zFkyeIAzOe5sxmw1hm1gPgZXzeSGjeaBYPzKsAN4x9wHKYrI1EARYHn7zFO1EMrgMI%2fgV0BmmzJWxR2ILwhNs1lt%2b2Oyh1tFejS8rPCR5IjRxz8MOrmgtX3MV%2bK1RsAj0G3VrVZ2BEh9As%3d) format("truetype")}
+  @font-face{font-family:"Proxima N W02 Smbd";
+  src:url(https://apiadn.fonts.com/v2/fonts/subset?x=wt0z0ND%2fdjdWsmIUOO6vXq1qtPwCMYyUOGnyXvVBJ4eB%2f4iajAbNUvXJ13ifoOJCpMq28VCdpA1IcuurYjN5h9gemMTpvwhW8JlYNvNvdwyxpA1JJhvIgSEntpbeP9ydHsDLNL5lzqf5Wm3dURpTnx5ZFNVlS7%2bUCdOXz9WA84k%3d);
+  src:url(https://apiadn.fonts.com/v2/fonts/subset?x=wt0z0ND%2fdjdWsmIUOO6vXq1qtPwCMYyUOGnyXvVBJ4eB%2f4iajAbNUvXJ13ifoOJCpMq28VCdpA1IcuurYjN5h9gemMTpvwhW8JlYNvNvdwyxpA1JJhvIgSEntpbeP9ydHsDLNL5lzqf5Wm3dURpTnx5ZFNVlS7%2bUCdOXz9WA84k%3d#iefix) format("eot"),url(https://apiadn.fonts.com/v2/fonts/subset?x=u0tNb2sdJWaRi%2b4hqjxTTzB%2f8nmJQt%2fEcqOKtiV67VzasOTDgXCQ28zU9bRO5OVdCaAk7C5I8f7deeHeQaJVF%2fiWMjvuE%2bKVdtojR4VDuYjlNLbN3In%2beBBhYbXSyKtrOmnyG6lk2KMvgTYJ24bq1WHVqYmVb7FoOeD7I1LfGrw%3d) format("woff2"),url(https://apiadn.fonts.com/v2/fonts/subset?x=cXybx6EtjJgxMPFEs3rQmqRA6uTaSI2YrmI6040oS2qN3%2b6%2fhJvSMeO9IdbyhhWh5%2btjwBBYmxHZJCBx4ssg5FYCsr4WWtTWolGFbA6L%2fEqNXJrOnLSidhERjEKmkDvjHlA1Tx87zuqlLhgpEradmeTJ6bY0TXQ6IdTxR3vu6p4%3d) format("woff"),url(https://apiadn.fonts.com/v2/fonts/subset?x=PJsSGUv6%2fUtao1%2bt4ykLCOIhXuvQSsoAfnsxkh0ro3loHePTLvUYqPRKrFAo4DvV9MfRfkMbBmM4UVJ%2fGv8BmGAVOLM8GaKUG%2fKGKiKx5NzZItP1NM9na%2bxyBpSQlZl9LZ75ZLApPwXorbxxMQk6GOW%2fp3qGn6Nee0Cbu1kyhDg%3d) format("truetype")}
+
+
+.root {
+  font-family: inherit;
+}
+.root.dark {
+  border-color: rgba(108, 106, 104, 0.5);
+}
+
+/********************
+ * QUESTION
+ ********************/
+.image {
+  display: block;
+  width: 600px;
+  float:left;
+  height:600px;
+  max-width:600px;
+  background-size: cover;
+}
+
+.Logoimage{
+  display: block;
+  width: 133px;
+  height: 46px;
+  position:inherit;
+  margin-right:356px; 
+  margin-top:35px;
+  padding-left:35px;
+
+  
+}
+
+.question {
+    margin: auto;
+    font-weight: 600;
+    opacity: 0.8;
+    font-size: 24px;
+    line-height: 1.25;
+    margin-right: 96px;
+    font-family: Proxima N W01 Reg;
+    left: 35px;
+    position: relative;
+    margin-top:30px
+}
+
+/********************
+ * ANSWERS
+ ********************/
+.answers {
+  
+  list-style-type: none;
+    width: 100%;
+    max-width: 280px;
+    margin: auto;
+    left: 0px;
+    display: inline-block;
+    padding-left: 35px;
+    margin-top: 21px;
+  
+  
+}
+
+.answer {
+  border: 1px solid lightgray;
+  margin: 5px auto 10px;
+  background-position: calc(100% - 22px) center;
+  background-repeat: no-repeat;
+  background-size: 24px 24px;
+  border-radius: 9px;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1);
+  transition: border-color 0.3s, background-color 0.3s;
+  width: 280px;
+  height: 45px;
+
+}
+.answer:not(.isNotHoverable):focus, .answer:not(.isNotHoverable):hover {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-color: rgba(0, 0, 0, 0.5);
+}
+.answer:not(.isNotHoverable):focus label, .answer:not(.isNotHoverable):hover label {
+  color: rgba(0, 0, 0, 0.6);
+}
+.answer label {
+  display: block;
+  color:#3d3d3d;
+  color: var(--greyish-brown);;
+  cursor: pointer;
+  font-family:  Proxima N W01 Reg;
+  font-weight: 600;
+  transition: color 0.3s;
+  font-size: 18px;
+  line-height: 28px;
+  padding: 9px 56px 12px 22px;
+  color: #3d3d3d;
+}
+.answer label.hidePointer {
+  cursor: auto;
+}
+.answer input[type=radio] {
+  display: none;
+}
+
+.dark .answer {
+  border-color: #6a6a6a;
+}
+.dark .answer:not(.isNotHoverable):focus, .dark .answer:not(.isNotHoverable):hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+.dark .answer:not(.isNotHoverable):focus label, .dark .answer:not(.isNotHoverable):hover label {
+  color: rgba(255, 255, 255, 0.6);
+}
+.dark .answer label {
+  color: #6a6a6a;
+}
+
+.answer.isCorrect {
+  background-image: url("../images/check.png");
+  background-size:17px 13px;
+  border-color: #00b46e;
+  color: #00b46e;
+  background-color: rgba(148, 220, 19, 0.24);
+  border: solid 1px #8fdf00;
+  color: #3d3d3d;
+  color: var(--greyish-brown);
+}
+.answer.isCorrect label {
+  color: #3d3d3d;
+}
+.answer.isWrong {
+  background-image: url("../images/x.png");
+  background-size: 13px 13px;
+  border-color: #f01432;
+  color: #f01432;
+  background-color: rgba(255, 9, 9, 0.17);
+  border: solid 1px #ff0000;
+  animation: shake 0.99s cubic-bezier(.36,.07,.19,.97) both;
+}
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+
+.answer.isWrong label {
+  color: #f01432;
+}
+
+/********************
+ * ANSWER TRIVIA
+ ********************/
+.trivia {
+  display: none;
+  overflow: hidden;
+  max-height: 0;
+  padding: 0 35px;
+  font-weight: 400;
+  line-height: 21px;
+  height: 60px;
+  font-family: ProximaNova-It;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #737373;
+  color: var(--warm-grey);
+  margin-top:-7px; 
+  
+}
+@keyframes triviaAnim {
+  0% {
+    opacity: 0;
+  }
+  1% {
+    display: block;
+  }
+  100% {
+    max-height: 300px;
+    opacity: 1;
+    padding-top: 22px;
+    padding-bottom: 34px;
+  }
+}
+.trivia.hasTransition {
+  display: block;
+  max-height: 0;
+  animation: triviaAnim 0.5s ease-out forwards;
+  opacity: 0;
+  font-family:Proxima N W01 Reg; 
+  font-style: italic;
+  color:#737373;
+  
+}
+
+.dark .trivia {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.adContainer {
+height:600px;
+width:100%;
+background-color: white;
+}
+
+.mainContainer{
+height: 100%;
+width:100%;
+margin:auto;
+max-width:1125px;
+max-height:600px;
+}
+
+/*for sliders */
+
+
+.slick-slide{
+height:auto!important;
+}
+
+.slick-prev {
+ color:black!important;
+
+}
+
+
+.slick-next:before, .slick-prev:before {
+color:black!important;
+
+
+}
+
+.slick-next.slick-disabled:before, .slick-prev.slick-disabled:before {
+opacity: -0.1;
+
+}
+
+
+/*buttons */
+
+.slick-prev:before {
+   background-image: url('../images/left-arrow-black.svg');
+    background-size: 10px 20px;
+    display: inline-block;
+    width: 10px; 
+    height: 20px;
+    content:"";
+    margin-top: 2px;
+    zoom: 1.9;
+    -moz-transform: scale(1.5);
+}
+
+
+.slick-next:before {
+   background-image: url('../images/right-arrow-black.svg');
+    background-size: 10px 20px;
+    display: inline-block;
+    width: 10px; 
+    height: 20px;
+    content:"";
+    margin-top: 1px;
+    zoom: 1.9;
+    -moz-transform: scale(1.5); 
+}
+
+
+.slick-prev {
+    right:70px;
+    margin-top: 242px;
+    z-index: 1;
+    left:initial;   
+}
+.slick-next {
+    right: 35px;
+    margin-top: 246px;
+    width: 15px;
+    height: 24px;
+    
+    
+}
+
+
+/*for the 1 of 5 modifications*/
+
+.pagingInfo {
+    margin-right: 99px;
+    float: right;
+    position: relative;
+    margin-top: -47px;
+    padding-top: -60px;
+    font-family: Proxima N W01 Reg;
+    font-size:14px;
+}
+
+.cta{
+  position: relative;
+    bottom: -448px;
+    color: var(--greyish-brown);
+    cursor: pointer;
+    font-family: Proxima N W01 Reg;
+    transition: color 0.3s;
+    font-size: 15px;
+    border-color: black;
+    font-weight: bold;
+    width: 140px;
+    height: 40px;
+    background-color: transparent;
+    letter-spacing: 1px;
+    left: 35px;
+    display: block;
+}
+
+button{
+outline: none;
+border: 2px solid #959595;
+
+}
+
+button:hover{
+  background-color: black;
+  color: white;
+}
+
+.header {
+  position: absolute;
+  
+}
+
+
+#quiz1 .header {
+position:relative; 
+font-size: 16px;
+font-weight: 100;
+margin-top: 35px;
+font-family:Proxima N W01 Reg;
+left: 35px!important;
+margin:auto;
+margin-right: 96px;
+margin-top:30px;
+
+}
+
+#quiz1 .question {
+  margin-top: 13px; 
+  line-height: 1.25;  
+  position: relative;
+  left: 35px;
+}
+
+#quiz5 .question{
+  margin-top: -5px;
+}
+
+/*for firefox*/
+
+@-moz-document url-prefix() {
+  .slick-next::before {
+    margin-top: 9px;;
+  }
+}
+
+@-moz-document url-prefix() {
+  .slick-prev::before {
+    margin-top: 11px;
+  }
+}
+
+/***************************************** Desktop Images ***************************************************/
+#quiz1 .image {
+  background-image: url("../images/car1.png");
+}
+
+#quiz2 .image {
+  background-image: url("../images/car2.png");
+}
+
+#quiz3 .image {
+  background-image: url("../images/car3.png");
+}
+
+#quiz4 .image {
+  background-image: url("../images/car4.png");
+}
+
+#quiz5 .image {
+  background-image: url("../images/car1.png");
+}
+
+
+/*display:none for all cta elements except the final slide.*/
+
+#quiz1 .cta,
+#quiz2 .cta,
+#quiz3 .cta,
+#quiz4 .cta {
+  display:none;
+}
+
+
+
+@media screen and (max-width: 1139px) {
+     
+  
+    .image {
+  width: calc(100% - 423px);
+  object-fit: cover;
+    }
+}
+
+
+
+/************************************ FOR TABLE*****************************************************************/
+@media only screen and (max-width: 800px){ 
+.image {
+  max-width:705px;
+  height:270px;
+  width: 100%;
+}
+
+.Logoimage {
+  position:absolute; 
+}
+
+.mainContainer {
+max-width:705px
+
+}
+
+#quiz1 .header {
+    position: absolute;
+    margin-top: 286px;
+    height: 31px;
+    font-family: Proxima N W01 Reg;
+    font-size: 18px;
+    line-height: 1.67;
+    letter-spacing: 1px;
+}
+
+#quiz1 .question {
+    margin: 75px auto 16px; 
+    margin-top: 51px;
+    width: 596px;
+    height: 55px;
+    font-family: Proxima N W01 Reg;
+    font-size: 20px;
+    line-height: 1.25;
+}
+
+#quiz1 .trivia {
+  margin-bottom: 57px;
+    width: 326px;
+    height: 103px;
+    font-size: 15px;
+    margin-left: 307px;
+}
+
+#quiz1 .answers {
+    float: left;
+    margin-top: 4px!important;
+}
+
+#quiz5 .question{
+  margin-top: 20px;
+}
+
+.question {
+    float: left;
+    margin-bottom: 42px;
+    margin-top: 20px;
+    width: 638px;
+    height: 25px;
+    font-family: Proxima N W01 Reg;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    text-align: left;
+    color: #1f1f1f;
+
+}
+
+.answers {
+  float:left;
+  padding-left: 32px;
+  margin-top: -5px;
+  margin-left:3px;
+  margin-bottom:20px!important;
+  
+}
+
+#quiz5 .answers {
+  margin-bottom:0px!important;
+  
+}
+
+
+#quiz1 .answer{
+  margin: -8px auto 15px;
+}
+
+.trivia {
+    margin-left: 307px;
+    margin-bottom: 100px;
+    position: absolute;
+    bottom: 0px;
+    width: 326px;
+    height: 103px;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    height: 60px;
+
+}
+
+.pagingInfo{
+  margin-top: -28px;
+  margin-right:95px;
+}
+
+
+
+.slick-next {
+  margin-top:271px;
+  right:32px;
+}
+
+.slick-prev {
+  margin-top: 271.5px;
+  right: 70px;
+}
+
+
+.cta{
+  /*margin-right: 523px;*/
+  margin-bottom: -221px;
+  top: 259px;
+}
+
+
+.slick-next:before {
+  margin-top: -7.1px;
+
+}
+
+.slick-prev:before {
+margin-top: -8px;
+margin-left: 3px;
+}
+
+
+/***************************************** Tablet Images ***************************************************/
+
+#quiz1 .image {
+  background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.17), rgba(0, 0, 0, 0)), url('../images/car-small1.png');
+}
+
+#quiz2 .image {
+  background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.17), rgba(0, 0, 0, 0)), url('../images/car-small2.png');
+}
+
+#quiz3 .image {
+  background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.17), rgba(0, 0, 0, 0)), url('../images/car-small3.png');
+}
+
+#quiz4 .image {
+  background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.17), rgba(0, 0, 0, 0)), url('../images/car-small4.png');
+}
+
+#quiz5 .image {
+  background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.17), rgba(0, 0, 0, 0)), url('../images/car-small1.png');
+}
+
+/*to add the logo (white on tablet view*/
+
+/***************************************** Tablet Logo ***************************************************/
+
+#quiz1 .Logoimage,  
+#quiz2 .Logoimage,
+#quiz3 .Logoimage,
+#quiz4 .Logoimage,
+#quiz5 .Logoimage { 
+  content:url("../images/white@2x.png")
+}
+
+/* to adjust next/prev clicks on firegox*/
+
+@-moz-document url-prefix() {
+ .slick-next::before {
+   margin-top:3px!important;
+ }
+}
+
+@-moz-document url-prefix() {
+  .slick-prev::before {
+    margin-top:2px!important;
+  }
+}
+
+}
+
+
+/* for mobile */
+
+
+@media screen and (max-width: 700px){
+  .mainContainer {
+    display: none;
+  }
+}
+
+
+
+
+
